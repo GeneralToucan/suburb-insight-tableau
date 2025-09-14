@@ -1,6 +1,8 @@
 # suburb-insight-tableau
 This project aims to provide new immigrants with insights on various suburbs in NSW based on mean income, population count, and number of points of interests e.g. libraries, schools etc with **Tableau Next** and **AgentForce**.
 
+**Demo Youtube Link:** https://youtu.be/czWq6m2Xxp4
+
 ## **Inspiration**
 
 Moving to a new country can be overwhelming, especially when trying to decide where to live. While information on property prices and crime rates is widely available, details on local amenities like schools, libraries, shopping centres, transport interchanges and hospitals are often difficult to access. These factors, however, are crucial for immigrants seeking a community that supports their lifestyle and needs. This gap in accessible information inspired the creation of Suburb Insights for Immigrants—a tool to make these details more visible and easier to explore.
