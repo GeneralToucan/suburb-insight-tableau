@@ -24,6 +24,7 @@ The dashboard provides a visual, user-friendly way for immigrants to explore sub
 In addition, users can interact with AgentForce, an AI agent that answers natural-language questions such as:
 - “Which suburb has the highest mean income?”
 - “How many schools are in Pymble?”
+- “How many shopping centres are in Chatswood - East?”
 
 This makes the dashboard both informative and accessible, even to those unfamiliar with data tools.
 
