@@ -4,9 +4,14 @@ This project aims to provide new immigrants with insights on various suburbs in 
 **Demo YouTube Link:** https://youtu.be/czWq6m2Xxp4
 
 **Architecture Diagram**
+
 ![](Suburb_Insights_Tableau_Diagram.jpg)
 
 **Dashboard Demo**
+
+Sample question: How many shopping centres are in Chatswood - East?
+
+
 ![](Dashboard_example.png)
 
 ## **Inspiration**
