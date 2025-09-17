@@ -7,7 +7,7 @@ This project aims to provide new immigrants with insights on various suburbs in 
 ![](Suburb_Insights_Tableau_Diagram.jpg)
 
 **Dashboard Demo**
-![](DASHBOARD.png)
+![](Dashboard_example.png)
 
 ## **Inspiration**
 
