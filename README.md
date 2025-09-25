@@ -63,6 +63,7 @@ This makes the dashboard both informative and accessible, even to those unfamili
 ## **What's next for Suburb Insights for Immigrants**
 
 - Potentially expand coverage beyond Sydney North Shore and Hornsby to include all NSW suburbs.
-- Incorporate additional factors e.g. businesses, industries
+- Enable direct integration with NSW POI API for direct data retrival and real-time up-to-date information.
+- Incorporate additional factors e.g. businesses, industries.
 - Develop a mobile-friendly version for easier access by new arrivals.
 - Collaborate with community organisations to ensure the tool aligns with the real needs of immigrants.
